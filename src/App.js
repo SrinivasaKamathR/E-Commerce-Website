@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, Suspense } from "react";
+import { useContext, useEffect, Suspense } from "react";
 import { Redirect, Route, Switch } from "react-router-dom";
 import Header from "./header/Header";
 import Footer from "./footer/Footer";
